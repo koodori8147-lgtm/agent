@@ -8,6 +8,7 @@ langsmith
 langgraph
 langchain-tavily
 
+pandas
 python-dotenv
 pypdf
 pymupdf
@@ -20,3 +21,4 @@ chromadb
 sentence-transformers
 tiktoken
 unstructured
+grandalf
