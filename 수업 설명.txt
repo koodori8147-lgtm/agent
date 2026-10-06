@@ -1,0 +1,12 @@
+
+
+Deep Agents (Multi Agents)
+-> 실제 프로젝트 할 때 사용하는 agent
+
+
+교재에선 하기와 같이 search를 간단하게 쓰지 않음
+def search(query: str) -> str:
+    """Search for information."""
+    return f"Results for: {query}"
+
+
