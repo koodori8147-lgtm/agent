@@ -183,3 +183,13 @@ cython_debug/
 pyproject.toml
 uv.lock
 __init__.py
+
+# LangGraph runtime / checkpoint
+**/.langgraph_api/
+
+# Chroma vector database
+**/chroma_db/
+
+# Backup
+*.pckl
+*.bin
